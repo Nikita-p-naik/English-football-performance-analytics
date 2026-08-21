@@ -19,7 +19,7 @@ Dataset
 Four English divisions
 Match results from 2020–2025
 
-Business Questions Answered
+## Business Questions Answered
 - Which teams performed best overall?
 - How significant is home advantage?
 - Which clubs score the most goals?
@@ -28,15 +28,16 @@ Business Questions Answered
 - How do home and away performances compare?
 - Which teams have the strongest goal difference?
 
-  Key Insights
+  ### Key Insights
 🏆 Home Advantage Exists
-Home teams won 42.9% of matches.
-Away teams won 31.9%.
-Home advantage created an 11% performance gap.
+-Home teams won 42.9% of matches.
+-Away teams won 31.9%.
+-Home advantage created an 11% performance gap.
 ⚽ Scoring Trends
-Total goals scored: 23,336
-Average goals per match: 2.6
-Nearly 47% of matches ended with 2–3 goals.
+-Total goals scored: 23,336
+-Average goals per match: 2.6
+-Nearly 47% of matches ended with 2–3 goals.
+
 🔥 Highest Scoring Season
 2023 produced:
 5,798 goals
